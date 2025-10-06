@@ -16,7 +16,7 @@ nav {
 }
 
 #my-title {
-    color: black;
+    color: aqua;
 }
 .box1{
     position: absolute;
@@ -40,4 +40,5 @@ nav {
     position: absolute;
     margin-left: 45vh;
     margin-top: -22vh;
+    color: blueviolet;
 }
