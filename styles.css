@@ -34,10 +34,10 @@ nav {
     margin: 2vh;
 }
 .boximg{
-    position: relative;
+    display: inline;
 }
 .boxtext{
     position: absolute;
-    margin-left: 25vh;
+    margin-left: 45vh;
     margin-top: -22vh;
 }
